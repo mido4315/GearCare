@@ -1,0 +1,49 @@
+class AssetData{
+  
+  static const facebookIcon='assets/images/devicon_facebook.svg';
+  static const googleIcon='assets/images/Frame 142.svg';
+  static const appleIcon='assets/images/Frame 143.svg';
+  static const loginImage='assets/images/cuate.svg';
+  static const brofileCustomImage='assets/images/Frame 144.svg';
+  static const addIcon='assets/images/carbon_add-filled.svg';
+  static const splashImage='assets/images/bro.svg';
+  static const identifyServiceImage='assets/images/amico.svg';
+  static const splashIcon='assets/icons/bxs_up-arrow.png';
+  static const servicesIcon='assets/icons/services_arrow.png';
+  static const signUpIcon='assets/icons/carbon_add-filled.png';
+  static const accountImageSvg='assets/images/account_image.svg';
+  static const accountImage2='assets/images/account_image.png';
+  static const drawer='assets/icons/drawer.png';
+  static const homeIcon='assets/icons/iconamoon_home.png';
+  static const shopIcon='assets/icons/shop_icon.png';
+  static const marchantIcon='assets/icons/marchant_icon.png';
+  static const favIcon='assets/icons/fav_icon.png';
+  static const msgIcon='assets/icons/msg_icon.png';
+  static const mapSvg='assets/images/map.svg';
+  static const map='assets/images/map_image.png';
+  static const bestSellerImage='assets/images/best_seller_item.svg';
+  static const bestSellerImageBng='assets/images/Rectangle 70.png';
+  static const accountImage3='assets/images/Rectangle30.svg';
+  static const accountImage4='assets/images/accountImage4.png';
+  static const forgetPasswordImage='assets/images/forget_password.svg';
+  static const searchIcon='assets/icons/searchIcon.jpg';
+  static const favImagesvg='assets/images/fav_image.svg';
+  static const favImage='assets/images/fav_imge.jpg';
+  static const mailIcon='assets/images/Mail.jpg';
+  static const phoneIcon='assets/images/Phone.jpg';
+  static const electricianSvg='assets/images/electrician.svg';
+  static const electrician='assets/images/electrician.jpg';
+  static const mechanicSvg='assets/images/mechanic.svg';
+  static const mechanic='assets/images/mechanic.jpg';
+  static const winchSvg='assets/images/tow-truck.svg';
+  static const winch='assets/images/tow-truck.jpg';
+  static const activeIcon='assets/icons/activeIcon.png';
+  static const chatIcon='assets/images/Mail.png';
+  static const serviceProvider='assets/images/service_provider.png';
+  static const productImage='assets/images/product_image.jpg';
+  static const productImage2='assets/images/Rectangle 106.jpg';
+  static const whiteBackGroung='assets/images/white_background.png';
+  static const profileImage='assets/images/profile_image.jpg';
+  static const mailSvg='assets/images/Mail.svg';
+  
+}
